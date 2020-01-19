@@ -6,6 +6,8 @@ Esse repositório e um compilado de todos os badges que eu uso e icones.
 
 Eu uso eles em meus projetos e comits em equipes, caso vocês gostem use e marque eu ou me siga no instagram **@devpedrolourenco**
 
+
+
 **English Version:**
 
 This repository is a compilation of all the badges I use and icons.
