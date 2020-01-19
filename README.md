@@ -1,4 +1,4 @@
-# badges-list
+# Badges and Icons Github Pedro Lourenço
 
 **Versão em Portugês:**
 
